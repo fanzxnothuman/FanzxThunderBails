@@ -1,54 +1,61 @@
-# WhatsApp Baileys
+# WhatsApp Baileys < リザナミ幹部? 
 
 <p align="center">
-  <img src="https://files.catbox.moe/srgbna.png" alt="Thumbnail" />
+  <img src="https://files.catbox.moe/kjhsll.jpg" alt="Thumbnail" />
 </p>
 
-WhatsApp Baileys is an open-source library designed to help developers build automation solutions and integrations with WhatsApp efficiently and directly. Using websocket technology without the need for a browser, this library supports a wide range of features such as message management, chat handling, group administration, as well as interactive messages and action buttons for a more dynamic user experience.
+WhatsApp Baileys は、開発者が WhatsApp と効率的かつ直接的に連携し、自動化ソリューションや統合機能を構築できるよう設計されたオープンソースライブラリです。
+ブラウザを必要とせず、WebSocket 技術を利用して、メッセージ管理、チャット操作、グループ管理、インタラクティブメッセージやアクションボタンなど、よりダイナミックなユーザー体験を実現する幅広い機能をサポートします。
 
-Actively developed and maintained, baileys continuously receives updates to enhance stability and performance. One of the main focuses is to improve the pairing and authentication processes to be more stable and secure. Pairing features can be customized with your own codes, making the process more reliable and less prone to interruptions.
+Baileys は積極的に開発・保守されており、安定性とパフォーマンス向上のために継続的にアップデートされています。
+特に、ペアリングや認証プロセスの安定性・安全性向上に力を入れており、自分専用のコードでペアリング機能をカスタマイズでき、より信頼性が高く中断の少ない運用が可能です。
 
-This library is highly suitable for building business bots, chat automation systems, customer service solutions, and various other communication automation applications that require high stability and comprehensive features. With a lightweight and modular design, baileys is easy to integrate into different systems and platforms.
+このライブラリは、ビジネス向けボット、チャット自動化システム、カスタマーサービスソリューション、その他の高い安定性と包括的な機能を必要とする通信自動化アプリケーションの構築に非常に適しています。
+軽量でモジュール型の設計により、さまざまなシステムやプラットフォームへの統合も容易です。
 
----
+主な機能と利点
+自動およびカスタムペアリングプロセスのサポート
 
-### Main Features and Advantages
+接続失敗や切断の原因となっていた従来のペアリング問題を修正
 
-- Supports automatic and custom pairing processes
-- Fixes previous pairing issues that often caused failures or disconnections
-- Supports interactive messages, action buttons, and dynamic menus
-- Efficient automatic session management for reliable operation
-- Compatible with the latest multi-device features from WhatsApp
-- Lightweight, stable, and easy to integrate into various systems
-- Suitable for developing bots, automation, and complete communication solutions
-- Comprehensive documentation and example codes to facilitate development
+インタラクティブメッセージ、アクションボタン、動的メニューのサポート
 
----
+信頼性の高い運用を可能にする効率的な自動セッション管理
 
-### Getting Started
+最新の WhatsApp マルチデバイス機能に対応
 
-Begin by installing the library via your preferred package manager, then follow the provided configuration guide. You can also utilize the ready-made example codes to understand how the features work. Use session storage and interactive messaging features to build complete, stable solutions tailored to your business or project needs.
+軽量・安定・多様なシステムへの統合が容易
 
----
+ボット、自動化、包括的な通信ソリューションの開発に最適
 
-### Why Choose whatsapp baileys?
+開発を容易にする充実したドキュメントとサンプルコード
 
-Because this library offers high stability, full features, and an actively improved pairing process. It is ideal for developers aiming to create professional and secure WhatsApp automation solutions. Support for the latest WhatsApp features ensures compatibility with platform updates.
+はじめに
+お好みのパッケージマネージャーからライブラリをインストールし、提供されている設定ガイドに従ってください。
+機能の使い方を理解するために、用意されているサンプルコードを活用できます。
+セッション保存機能やインタラクティブメッセージ機能を利用して、ビジネスやプロジェクトのニーズに合わせた完全で安定したソリューションを構築してください。
 
----
+WhatsApp Baileys を選ぶ理由
+このライブラリは高い安定性、豊富な機能、そして継続的に改善されるペアリングプロセスを提供します。
+プロフェッショナルで安全な WhatsApp 自動化ソリューションを作りたい開発者に最適です。
+また、最新の WhatsApp 機能に対応しており、プラットフォームのアップデートにも互換性があります。
 
-## Technical Notes
+技術的なポイント
+安定かつ安全なカスタムペアリングコードのサポート
 
-- Supports custom pairing codes that are stable and secure
-- Fixes previous issues related to pairing and authentication
-- Features interactive messages and action buttons for dynamic menu creation
-- Automatic and efficient session management for long-term stability
-- Compatible with the latest multi-device features from WhatsApp
-- Easy to integrate and customize based on your needs
-- Perfect for developing bots, customer service automation, and other communication applications
+ペアリングや認証に関する従来の問題を修正
 
----
+動的メニュー作成のためのインタラクティブメッセージとアクションボタンの搭載
 
-For complete documentation, installation guides, and implementation examples, please visit the official repository and community forums. We continually update and improve this library to meet the needs of developers and users of modern WhatsApp automation solutions.
+長期安定運用を可能にする自動かつ効率的なセッション管理
 
-Thank you for choosing WhatsApp Baileys as your WhatsApp automation solution!
+最新の WhatsApp マルチデバイス機能に対応
+
+ニーズに応じた統合やカスタマイズが容易
+
+ボット、カスタマーサービス自動化、その他通信アプリケーションの開発に最適
+
+詳細なドキュメント、インストールガイド、実装例は公式リポジトリおよびコミュニティフォーラムをご覧ください。
+私たちは、現代の WhatsApp 自動化ソリューションを利用する開発者やユーザーのニーズに応えるため、継続的に本ライブラリを改善・更新しています。
+
+WhatsApp Baileys を WhatsApp 自動化ソリューションとしてお選びいただき、ありがとうございます！
